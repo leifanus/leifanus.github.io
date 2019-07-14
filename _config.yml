@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lei Fan"
   avatar           : "profile.png"
-  bio              : "Ph.D student in IE, UIUC"
+  bio              : "Ph.D student, UIUC"
   location         : "Champaign, IL"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  leifan2 AT illinois.edu
+  email            :  leifan2@illnois.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/leifanus"
+  github           : "leifanus"
   google_plus      :
   keybase          :
   instagram        :

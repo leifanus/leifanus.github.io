@@ -12,6 +12,7 @@ redirect_from:
 Welcome to my homepage!
 
 ------
+
 Education
 ======
 * __Ph.D__ in Industrial Engineering, University of Illinois Urbana-Champaign, 2021 (expected)

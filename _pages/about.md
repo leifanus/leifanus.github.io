@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+------
+
 This is Lei Fan's home on the web!
+
+------
